@@ -1,7 +1,7 @@
 # Natalia @Zoe Miklis Portfolio Website
 Project for Udacity Front-End Development Nanodegree Scholarship. 
 HTML5 Webpage built on `bootstrap`.
-Quick Look [here](/Zoe Code Webpage Screenshot.pdf).
+Quick Look [here](/zoe-code-screenshot.png).
 
 ## Responsive Design
 Webpage is responsive for all devices with special `breakpoints` for:
