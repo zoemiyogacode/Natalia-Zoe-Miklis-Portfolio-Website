@@ -1,0 +1,43 @@
+@media only screen
+and (min-width: 360px)
+and (orientation: portrait)
+and (-webkit-min-device-pixel-ratio: 3.0) {
+    .introduction {
+        text-align: left;
+        float: left;
+        padding: 0.5em;
+        font-family: 'Montserrat', sans-serif;
+        display: block;
+    }
+
+    #logo-img {
+        width: 20%;
+        height: auto;
+        margin: 0.5em;
+        display: block;
+    }
+
+    #avatar {
+        border-radius: 50%;
+        width: 100%
+        display: block;
+    }
+
+    .about-title {
+        text-align: center;
+        display: block;
+    }
+
+    .description {
+        text-align: center;
+        width: 100%;
+        display: block;
+    }
+
+    .center-block {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+}
