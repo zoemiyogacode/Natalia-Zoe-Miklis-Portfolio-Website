@@ -3,7 +3,7 @@ Project for Udacity Front-End Development Nanodegree Scholarship.
 HTML5 Web Page built on `bootstrap`.
 
 ## Responsive Design
-Web-page is responsive for all devices with special `breakpoints` for:
+Webpage is responsive for all devices with special `breakpoints` for:
 - Google Nexus 5
 - Apple iPad
 
