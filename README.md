@@ -25,7 +25,7 @@ Photos and images were minified using `Grunt`.
 - Safari (latest 2)
 
 ## License
-The code is available under the MIT license - see the LICENSE.md file for details
+The code is available under the [MIT license](/LICENSE.txt).
 
 
 
