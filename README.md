@@ -1,4 +1,4 @@
-# Natalia @Zoe Miklis Portfolio Website
+# Natalia Zoe Miklis Portfolio Website
 Project for Udacity Front-End Development Nanodegree Scholarship. 
 HTML5 Webpage built on `bootstrap`.
 Quick Look [here](/zoe-code-screenshot.png).
